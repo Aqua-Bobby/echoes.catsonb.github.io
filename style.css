@@ -54,7 +54,7 @@ section {
 }
 
 .photoleft{
-    float: left;
+    float: left; 
 }
 
 .hidden{
@@ -62,10 +62,6 @@ section {
     filter: blur(5px);
     transform: translateX(-100%);
     transition: all 1s;
-}
-
-.hidden .photoleft{
-    transform: translateX(+100%);
 }
 
 .show{
