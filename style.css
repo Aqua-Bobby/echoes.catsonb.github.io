@@ -64,9 +64,6 @@ section {
     transition: all 1s;
 }
 
-.hidden .photoleft{
-    transform: translateX(+100%);
-}
 
 .show{
     opacity: 1;
