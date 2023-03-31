@@ -54,7 +54,7 @@ section {
 }
 
 .photoleft{
-    float: left;
+    float: left; 
 }
 
 .hidden{
@@ -63,7 +63,6 @@ section {
     transform: translateX(-100%);
     transition: all 1s;
 }
-
 
 .show{
     opacity: 1;
@@ -76,4 +75,3 @@ section {
         transition: none
     }
 }
-
